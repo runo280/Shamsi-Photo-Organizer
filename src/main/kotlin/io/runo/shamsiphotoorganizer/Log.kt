@@ -1,4 +1,4 @@
-package io.runo280.shamsi_photo_organizer
+package io.runo.shamsiphotoorganizer
 
 import org.tinylog.kotlin.Logger
 
