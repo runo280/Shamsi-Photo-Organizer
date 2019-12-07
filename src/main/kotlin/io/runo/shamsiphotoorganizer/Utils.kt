@@ -1,4 +1,4 @@
-package io.runo280.shamsi_photo_organizer
+package io.runo.shamsiphotoorganizer
 
 import com.drew.imaging.ImageMetadataReader
 import com.hosseini.persian.dt.PersianDT
